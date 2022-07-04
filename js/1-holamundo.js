@@ -4,7 +4,7 @@
 de multiples lineas*/
 
 //mostrar un mensaje en la pantala o documento
-document.write(' <h1> hola comision </h1>');
+document.write(' <h1> Hola comision </h1>');
 
 //mostrar un mensaje por consola
 console.log('prueba de consola');
@@ -14,4 +14,15 @@ console.log('prueba de consola');
 
 
 //sumemos dos valores
-document.write('Resultado:' + (12+30))
+document.write('Resultado:' + (12+30));
+
+//para crear una variable(var-let{variables q le voy a cambiar su valor-const)
+
+//ej de constantes
+const url = 'https://trello.com/c/tJOi1UKn/49-comandos-de-git';
+document.write('<br>'+ (url));
+
+//cambiar nombre de variable
+let nombre=...;
+
+nombre='nuevo nombre';
