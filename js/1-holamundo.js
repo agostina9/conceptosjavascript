@@ -23,6 +23,6 @@ const url = 'https://trello.com/c/tJOi1UKn/49-comandos-de-git';
 document.write('<br>'+ (url));
 
 //cambiar nombre de variable
-let nombre=...;
+let nombre=#;
 
 nombre='nuevo nombre';
