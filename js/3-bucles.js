@@ -5,6 +5,7 @@ while(condicion logica){
     cambiar la condicion logica
 }
 
+EJ:
 
 let cantidad = 0;
 
@@ -20,11 +21,25 @@ do{
     cambiar la condicion logica
 }while(condicion logica)
 
-*/
+EJ:
 
 let cantidadmates = 1
 
 do{
     document.write('<br>preparar mate y entregarle al sig' + cantidadmates)
-cantidadmates++
+    cantidadmates++
 }while (cantidadmates <= 20)
+
+
+
+Bucle for
+
+for(inicializar una variabble ; condicion logica ; incrementar o decrementar la variable declarada al inicio{
+    todo el codigo a ejecutar repetidas veces
+}
+EJ:
+*/
+
+for( let cantidadmates = 1; cantidadmates <= 20 ; cantidadmates++){
+    document.write('<br>preparar mate y entregarle al sig' + cantidadmates)
+}
