@@ -1,4 +1,4 @@
-/* Bucles
+/* Bucles for y while son iguales- do while( se tiene q ejecutar aunque la condicion logica no se cumpla)
 
 while(condicion logica){
     todas las lineas de codigo que quiero que repita el programa
