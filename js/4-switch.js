@@ -35,7 +35,7 @@ break;
 default:
     todas las lineas de codigo ejecutar en caso que el usuario seleccione una opcion diferente
     }
-*/
+*/ jnk
 
 switch (estacion) {
   case 1:
